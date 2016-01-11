@@ -1,2 +1,5 @@
 # First_AngularJS_App
-My first AngularJS  for evisionme
+
+Hello World!
+
+Itumeleng Tease here. Welcome to my first AngularJS for evisionme. 
