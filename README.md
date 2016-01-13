@@ -12,3 +12,5 @@ Run `grunt` for building and `grunt serve` for preview.
 Running `grunt test` will run the unit tests with karma.
 
 ## Rui Made this change
+
+I like making changes to the readme.
